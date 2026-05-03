@@ -83,7 +83,7 @@ bookshelf/
 ## Запуск проекта
 
 ```bash
-git clone https://github.com/MariaLavrinenko/bookshelf-api
+git clone https://github.com/MariaLavrinenko/bookshelf_api_rep
 cd bookshelf
 
 python -m venv .venv
