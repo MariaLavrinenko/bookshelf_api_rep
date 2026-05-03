@@ -1,0 +1,21 @@
+# Virtual Environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Database files
+*.db
+bookshelf.db
+test_bookshelf.db
+test_*.db
+
+# IDE
+.idea/
+.vscode/
+
+# Environment variables
+.env
+
+# Pytest cache
+.pytest_cache/
